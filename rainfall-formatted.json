@@ -1,0 +1,516 @@
+{
+    "23008": [
+        {
+            "Timestamp": "Feb 2011",
+            "Value": "159.6"
+        },
+        {
+            "Timestamp": "Mar 2011",
+            "Value": "78.6"
+        },
+        {
+            "Timestamp": "Apr 2011",
+            "Value": "44"
+        },
+        {
+            "Timestamp": "May 2011",
+            "Value": "145.8"
+        },
+        {
+            "Timestamp": "Jun 2011",
+            "Value": "72.8"
+        },
+        {
+            "Timestamp": "Jul 2011",
+            "Value": "58.4"
+        },
+        {
+            "Timestamp": "Aug 2011",
+            "Value": "136.8"
+        },
+        {
+            "Timestamp": "Sep 2011",
+            "Value": "122.6"
+        },
+        {
+            "Timestamp": "Oct 2011",
+            "Value": "204"
+        },
+        {
+            "Timestamp": "Nov 2011",
+            "Value": "133.2"
+        },
+        {
+            "Timestamp": "Dec 2011",
+            "Value": "223"
+        },
+        {
+            "Timestamp": "Jan 2012",
+            "Value": "122.8"
+        },
+        {
+            "Timestamp": "Feb 2012",
+            "Value": "71"
+        },
+        {
+            "Timestamp": "Mar 2012",
+            "Value": "41"
+        },
+        {
+            "Timestamp": "Apr 2012",
+            "Value": "60.6"
+        },
+        {
+            "Timestamp": "May 2012",
+            "Value": "46"
+        },
+        {
+            "Timestamp": "Jun 2012",
+            "Value": "104.4"
+        },
+        {
+            "Timestamp": "Jul 2012",
+            "Value": "82.4"
+        },
+        {
+            "Timestamp": "Aug 2012",
+            "Value": "115.4"
+        },
+        {
+            "Timestamp": "Sep 2012",
+            "Value": "113.8"
+        },
+        {
+            "Timestamp": "Oct 2012",
+            "Value": "128"
+        },
+        {
+            "Timestamp": "Nov 2012",
+            "Value": "115.6"
+        },
+        {
+            "Timestamp": "Dec 2012",
+            "Value": "172"
+        },
+        {
+            "Timestamp": "Jan 2013",
+            "Value": "120.6"
+        },
+        {
+            "Timestamp": "Feb 2013",
+            "Value": "59.8"
+        },
+        {
+            "Timestamp": "Mar 2013",
+            "Value": "42.2"
+        },
+        {
+            "Timestamp": "Apr 2013",
+            "Value": "77"
+        },
+        {
+            "Timestamp": "May 2013",
+            "Value": "84.6"
+        },
+        {
+            "Timestamp": "Jun 2013",
+            "Value": "60.6"
+        },
+        {
+            "Timestamp": "Jul 2013",
+            "Value": "76.6"
+        },
+        {
+            "Timestamp": "Aug 2013",
+            "Value": "59.8"
+        },
+        {
+            "Timestamp": "Sep 2013",
+            "Value": "87.6"
+        },
+        {
+            "Timestamp": "Oct 2013",
+            "Value": "156.4"
+        },
+        {
+            "Timestamp": "Nov 2013",
+            "Value": "91.6"
+        },
+        {
+            "Timestamp": "Dec 2013",
+            "Value": "148.2"
+        },
+        {
+            "Timestamp": "Jan 2014",
+            "Value": "157.6"
+        },
+        {
+            "Timestamp": "Feb 2014",
+            "Value": "114.2"
+        },
+        {
+            "Timestamp": "Mar 2014",
+            "Value": "0"
+        },
+        {
+            "Timestamp": "Apr 2014",
+            "Value": "31.6"
+        },
+        {
+            "Timestamp": "May 2014",
+            "Value": "146.8"
+        },
+        {
+            "Timestamp": "Jun 2014",
+            "Value": "43.6"
+        },
+        {
+            "Timestamp": "Jul 2014",
+            "Value": "86.8"
+        },
+        {
+            "Timestamp": "Aug 2014",
+            "Value": "79.6"
+        },
+        {
+            "Timestamp": "Sep 2014",
+            "Value": "24.3"
+        },
+        {
+            "Timestamp": "Oct 2014",
+            "Value": "156"
+        },
+        {
+            "Timestamp": "Nov 2014",
+            "Value": "95.2"
+        },
+        {
+            "Timestamp": "Dec 2014",
+            "Value": "175.6"
+        },
+        {
+            "Timestamp": "Jan 2015",
+            "Value": "198.8"
+        },
+        {
+            "Timestamp": "Feb 2015",
+            "Value": "96.2"
+        },
+        {
+            "Timestamp": "Mar 2015",
+            "Value": "147.8"
+        },
+        {
+            "Timestamp": "Apr 2015",
+            "Value": "43.4"
+        },
+        {
+            "Timestamp": "May 2015",
+            "Value": "118.6"
+        },
+        {
+            "Timestamp": "Jun 2015",
+            "Value": "76"
+        },
+        {
+            "Timestamp": "Jul 2015",
+            "Value": "109.2"
+        },
+        {
+            "Timestamp": "Aug 2015",
+            "Value": "101.6"
+        },
+        {
+            "Timestamp": "Sep 2015",
+            "Value": "25"
+        },
+        {
+            "Timestamp": "Oct 2015",
+            "Value": "98"
+        },
+        {
+            "Timestamp": "Nov 2015",
+            "Value": "240"
+        },
+        {
+            "Timestamp": "Dec 2015",
+            "Value": "204.4"
+        },
+        {
+            "Timestamp": "Jan 2016",
+            "Value": "181.8"
+        },
+        {
+            "Timestamp": "Feb 2016",
+            "Value": "150.4"
+        },
+        {
+            "Timestamp": "Mar 2016",
+            "Value": "67.6"
+        },
+        {
+            "Timestamp": "Apr 2016",
+            "Value": "81.6"
+        },
+        {
+            "Timestamp": "May 2016",
+            "Value": "80.8"
+        },
+        {
+            "Timestamp": "Jun 2016",
+            "Value": "36.8"
+        },
+        {
+            "Timestamp": "Jul 2016",
+            "Value": "96.8"
+        },
+        {
+            "Timestamp": "Aug 2016",
+            "Value": "87.8"
+        },
+        {
+            "Timestamp": "Sep 2016",
+            "Value": "116"
+        },
+        {
+            "Timestamp": "Oct 2016",
+            "Value": "33.2"
+        },
+        {
+            "Timestamp": "Nov 2016",
+            "Value": "93.4"
+        },
+        {
+            "Timestamp": "Dec 2016",
+            "Value": "97.4"
+        },
+        {
+            "Timestamp": "Jan 2017",
+            "Value": "128.2"
+        },
+        {
+            "Timestamp": "Feb 2017",
+            "Value": "137.8"
+        },
+        {
+            "Timestamp": "Mar 2017",
+            "Value": "105.6"
+        },
+        {
+            "Timestamp": "Apr 2017",
+            "Value": "28.4"
+        },
+        {
+            "Timestamp": "May 2017",
+            "Value": "47.8"
+        },
+        {
+            "Timestamp": "Jun 2017",
+            "Value": "120.4"
+        },
+        {
+            "Timestamp": "Jul 2017",
+            "Value": "88.8"
+        },
+        {
+            "Timestamp": "Aug 2017",
+            "Value": "111.2"
+        },
+        {
+            "Timestamp": "Sep 2017",
+            "Value": "133.8"
+        },
+        {
+            "Timestamp": "Oct 2017",
+            "Value": "164.6"
+        },
+        {
+            "Timestamp": "Nov 2017",
+            "Value": "121.6"
+        },
+        {
+            "Timestamp": "Dec 2017",
+            "Value": "107"
+        },
+        {
+            "Timestamp": "Jan 2018",
+            "Value": "179.6"
+        },
+        {
+            "Timestamp": "Feb 2018",
+            "Value": "82.4"
+        },
+        {
+            "Timestamp": "Mar 2018",
+            "Value": "71"
+        },
+        {
+            "Timestamp": "Apr 2018",
+            "Value": "65.6"
+        },
+        {
+            "Timestamp": "May 2018",
+            "Value": "30.4"
+        },
+        {
+            "Timestamp": "Jun 2018",
+            "Value": "47.6"
+        },
+        {
+            "Timestamp": "Jul 2018",
+            "Value": "79"
+        },
+        {
+            "Timestamp": "Aug 2018",
+            "Value": "109"
+        },
+        {
+            "Timestamp": "Sep 2018",
+            "Value": "91.8"
+        },
+        {
+            "Timestamp": "Oct 2018",
+            "Value": "92"
+        },
+        {
+            "Timestamp": "Nov 2018",
+            "Value": "150.2"
+        },
+        {
+            "Timestamp": "Dec 2018",
+            "Value": "115.2"
+        },
+        {
+            "Timestamp": "Jan 2019",
+            "Value": "80.6"
+        },
+        {
+            "Timestamp": "Feb 2019",
+            "Value": "76.6"
+        },
+        {
+            "Timestamp": "Mar 2019",
+            "Value": "137"
+        },
+        {
+            "Timestamp": "Apr 2019",
+            "Value": "28.2"
+        },
+        {
+            "Timestamp": "May 2019",
+            "Value": "58.6"
+        },
+        {
+            "Timestamp": "Jun 2019",
+            "Value": "92"
+        },
+        {
+            "Timestamp": "Jul 2019",
+            "Value": "155"
+        },
+        {
+            "Timestamp": "Aug 2019",
+            "Value": "152.2"
+        },
+        {
+            "Timestamp": "Sep 2019",
+            "Value": "112"
+        },
+        {
+            "Timestamp": "Oct 2019",
+            "Value": "138.8"
+        },
+        {
+            "Timestamp": "Nov 2019",
+            "Value": "60.6"
+        },
+        {
+            "Timestamp": "Dec 2019",
+            "Value": "183.6"
+        },
+        {
+            "Timestamp": "Jan 2020",
+            "Value": "98.8"
+        },
+        {
+            "Timestamp": "Feb 2020",
+            "Value": "250"
+        },
+        {
+            "Timestamp": "Mar 2020",
+            "Value": "80.4"
+        },
+        {
+            "Timestamp": "Apr 2020",
+            "Value": "14.8"
+        },
+        {
+            "Timestamp": "May 2020",
+            "Value": "44"
+        },
+        {
+            "Timestamp": "Jun 2020",
+            "Value": "117.8"
+        },
+        {
+            "Timestamp": "Jul 2020",
+            "Value": "138"
+        },
+        {
+            "Timestamp": "Aug 2020",
+            "Value": "124.2"
+        },
+        {
+            "Timestamp": "Sep 2020",
+            "Value": "129.2"
+        },
+        {
+            "Timestamp": "Oct 2020",
+            "Value": "152.4"
+        },
+        {
+            "Timestamp": "Nov 2020",
+            "Value": "98.2"
+        },
+        {
+            "Timestamp": "Dec 2020",
+            "Value": "99.2"
+        },
+        {
+            "Timestamp": "Jan 2021",
+            "Value": "103"
+        },
+        {
+            "Timestamp": "Feb 2021",
+            "Value": "173.4"
+        },
+        {
+            "Timestamp": "Mar 2021",
+            "Value": "100.4"
+        },
+        {
+            "Timestamp": "Apr 2021",
+            "Value": "10.4"
+        },
+        {
+            "Timestamp": "May 2021",
+            "Value": "71.4"
+        },
+        {
+            "Timestamp": "Jun 2021",
+            "Value": "49.6"
+        },
+        {
+            "Timestamp": "Jul 2021",
+            "Value": "24.2"
+        },
+        {
+            "Timestamp": "Aug 2021",
+            "Value": "72.2"
+        },
+        {
+            "Timestamp": "Sep 2021",
+            "Value": "26.6"
+        }
+    ]
+}
